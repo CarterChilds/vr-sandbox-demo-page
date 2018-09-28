@@ -1,0 +1,162 @@
+body {
+  background: #000;
+}
+
+.column {
+	height: 50vh;
+	width: 100%;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+	.info {
+    /* margin-bottom: 25%; */
+  }
+  
+  .main-image {
+    height: 30vh
+  }
+
+.left {
+  background: linear-gradient(  
+    rgba(0, 0, 0, 0.7),
+    rgba(7, 7, 7, 0.5)), url(./assets/imageedit_1_7825475208.png) no-repeat top center;
+  background-size: cover;
+}
+.right {
+background-color: white !important;
+background: url(./assets//background-shape.svg) no-repeat center bottom;
+background-size: 100% 50%;
+}
+
+.header {
+height:6vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.right-content{
+  text-align: left;
+  font-size: 15px;
+  width: 70%
+
+}
+
+.icon-2, .icon-3{
+  padding: 0 2% 0 2%;
+}
+
+.icon-1{
+  padding: 0
+}
+
+.invite-friends-button {
+  background-color: #41A5F0;
+  color: white;
+  height: 6.4vh;
+  width: 43vw;
+  border-radius: 4%;
+  font-size: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 6%
+}
+
+.right-content > span, p{
+  margin-bottom: 10%
+}
+
+
+.invite-friends-tag {
+  font-weight: 100;
+  
+}
+
+
+/* Desktop */
+@media (min-width: 500px) {
+  .wrapper {
+    display: flex;
+  }
+
+  .left {
+    background: linear-gradient(  
+      rgba(0, 0, 0, 0.7),
+      rgba(7, 7, 7, 0.5)), url(./assets/imageedit_1_7825475208.png) no-repeat top center;
+    background-size: cover;
+    transform: scale(1.03);
+
+  }
+
+  .column {
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .info {
+    margin-bottom: 25%;
+  }
+
+  .info-right{
+    margin-bottom: 50%
+  }
+
+  .main-image{
+    height: 55vh
+  }
+
+  .header {
+    position: relative;
+    height: 38vh;
+    width: 50vw;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 8%;
+    bottom: 20px
+
+  }
+
+  .right-content{
+    text-align: left;
+    font-size: 12px;
+    width: 50%
+    
+  }
+
+  .invite-friends-button {
+    background-color: #41A5F0;
+    color: white;
+    height: 7.5vh;
+    width: 18vw;
+    border-radius: 4%;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 5%;
+    padding-right: 5%
+  }
+
+.right-content > span, p{
+  margin-bottom: 10%;
+  /* margin-top: 15% */
+
+}
+
+.invite-friends-tag {
+  font-weight: 100;
+
+}
+
+ 
+ }
+ 
+
+

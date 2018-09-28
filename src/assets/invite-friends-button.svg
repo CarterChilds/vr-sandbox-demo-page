@@ -1,0 +1,22 @@
+
+<svg width="338px" height="170px" viewBox="0 0 338 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-30.7%" y="-122.9%" width="161.5%" height="345.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="22.9436384" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="002ConfirmBook2" transform="translate(-756.000000, -825.000000)">
+            <g id="Group-5" transform="translate(803.000000, 866.000000)">
+                <rect id="Rectangle-2" fill="#000000" fill-rule="nonzero" opacity="0.117243304" filter="url(#filter-1)" x="10" y="16" width="224" height="56" rx="6"></rect>
+                <path d="M3,0 L241,0 C242.656854,-3.04359188e-16 244,1.34314575 244,3 L244,57 C244,58.6568542 242.656854,60 241,60 L3,60 C1.34314575,60 2.02906125e-16,58.6568542 0,57 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-4" fill="#41A5F0" fill-rule="nonzero"></path>
+                <text id="Invite-Friends" font-family="Helvetica" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="28" y="34">Invite Friends</tspan>
+                </text>
+                <path d="M204.759717,30.2094645 L192,30.2094645 L192,29.2094645 L204.759717,29.2094645 L204.759717,26 L213.510408,29.5630179 L204.759717,33.1260359 L204.759717,30.2094645 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
